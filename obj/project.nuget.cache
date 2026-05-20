@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "76JoApv0Nws=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adnan\\coding\\Zero-Allocation Reverse Proxy\\ZeroAllocationReverseProxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adnan\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

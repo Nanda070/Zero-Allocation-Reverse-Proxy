@@ -1,0 +1,17 @@
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\obj\Debug\net8.0\ZeroAllocationReverseProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\obj\Debug\net8.0\ZeroAllocationReverseProxy.AssemblyInfoInputs.cache
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\obj\Debug\net8.0\ZeroAllocationReverseProxy.AssemblyInfo.cs
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\obj\Debug\net8.0\ZeroAllocationReverseProxy.csproj.CoreCompileInputs.cache
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\bin\Debug\net8.0\ZeroAllocationReverseProxy.exe
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\bin\Debug\net8.0\ZeroAllocationReverseProxy.deps.json
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\bin\Debug\net8.0\ZeroAllocationReverseProxy.runtimeconfig.json
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\bin\Debug\net8.0\ZeroAllocationReverseProxy.dll
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\bin\Debug\net8.0\ZeroAllocationReverseProxy.pdb
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\obj\Debug\net8.0\ZeroAllocationReverseProxy.csproj.AssemblyReference.cache
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\obj\Debug\net8.0\ZeroAllo.EBAEB970.Up2Date
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\obj\Debug\net8.0\ZeroAllocationReverseProxy.dll
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\obj\Debug\net8.0\refint\ZeroAllocationReverseProxy.dll
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\obj\Debug\net8.0\ZeroAllocationReverseProxy.pdb
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\obj\Debug\net8.0\ZeroAllocationReverseProxy.genruntimeconfig.cache
+C:\Users\adnan\coding\Zero-Allocation Reverse Proxy\obj\Debug\net8.0\ref\ZeroAllocationReverseProxy.dll
